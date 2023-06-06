@@ -82,10 +82,12 @@ After analyzing the performance of both models, it was determined that the Logis
 
 
 Confusion Matrix Logistic Regression
+
 ![image](https://github.com/JorgeMiGo/HR-Analytics-Employee-Attrition/assets/127945994/d170aa6d-0cd1-4a62-a8ad-2b226df23b8a)
 
 
 Classification Report Logistic Regression
+
 ![image](https://github.com/JorgeMiGo/HR-Analytics-Employee-Attrition/assets/127945994/54a2f467-45db-4e08-8280-00d2d30e15fe)
 
 
