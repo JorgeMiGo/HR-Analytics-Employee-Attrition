@@ -16,6 +16,26 @@ Firstly, a descriptive analysis of the variables available in the dataset was pe
 
 Next, correlation analyses were conducted to investigate the relationship between independent variables and the target variable, i.e., the employee attrition rate. Statistical techniques were used to calculate correlation coefficients, and graphs were generated to visualize these relationships.
 
+Correlation matrix
+![image](https://github.com/JorgeMiGo/HR-Analytics-Employee-Attrition/assets/127945994/f209c924-afbe-4067-badd-a279406577b9)
+
+
+Main variables
+![image](https://github.com/JorgeMiGo/HR-Analytics-Employee-Attrition/assets/127945994/0c7ea05f-cf40-4ffb-8c2f-ce10b8f4eaf2)
+
+
+Distance from home to work
+![image](https://github.com/JorgeMiGo/HR-Analytics-Employee-Attrition/assets/127945994/13eb4f63-c0e8-4691-8099-67dc75a35204)
+
+
+Total working years
+![image](https://github.com/JorgeMiGo/HR-Analytics-Employee-Attrition/assets/127945994/4a6d6c0a-b75b-4533-a250-c9eefa4a1d33)
+
+
+Montly income by job role
+![image](https://github.com/JorgeMiGo/HR-Analytics-Employee-Attrition/assets/127945994/efd9475d-f22e-4716-8734-4dac82f4db35)
+
+
 **Results:**
 The results of the exploratory analysis revealed several interesting trends and relationships among the variables studied:
 
@@ -60,4 +80,16 @@ After analyzing the performance of both models, it was determined that the Logis
 - The F1 score, which considers both precision and recall, was calculated to be 87%, demonstrating a good balance between predicting both positive and negative instances.
 - Precision measures the proportion of correctly predicted positive instances, while recall assesses the proportion of actual positive instances correctly identified by the model.
 
+
+Confusion Matrix Logistic Regression
+![image](https://github.com/JorgeMiGo/HR-Analytics-Employee-Attrition/assets/127945994/d170aa6d-0cd1-4a62-a8ad-2b226df23b8a)
+
+
+Classification Report Logistic Regression
+![image](https://github.com/JorgeMiGo/HR-Analytics-Employee-Attrition/assets/127945994/54a2f467-45db-4e08-8280-00d2d30e15fe)
+
+
 These results indicate that the Logistic Regression model provides reliable predictions for employee attrition. The findings from this predictive analysis can assist organizations in identifying factors and patterns that contribute to employee turnover, enabling them to take proactive measures to improve employee retention and organizational success.
+
+## References
+- https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset
